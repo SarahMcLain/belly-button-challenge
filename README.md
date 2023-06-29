@@ -1,14 +1,14 @@
-## belly-button-challenge
+# belly-button-challenge
 
 **Starter code provided by Natural Chan. TA for edX Data Analytics program and edX instructions**
 
 This code is designed to create an online interactive dashboard displaying belly button microbe diversity. 
 
-# Step 1
+## Step 1
 
     Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
-# Step 2
+## Step 2
 
     Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
@@ -18,7 +18,7 @@ This code is designed to create an online interactive dashboard displaying belly
 
         Use otu_labels as the hovertext for the chart.
 
-# Step 3
+## Step 3
 
     Create a bubble chart that displays each sample.
 
@@ -32,7 +32,7 @@ This code is designed to create an online interactive dashboard displaying belly
 
         Use otu_labels for the text values.
 
-# Step 4
+## Step 4
 
     Display the sample metadata, i.e., an individual's demographic information.
 
@@ -40,6 +40,6 @@ This code is designed to create an online interactive dashboard displaying belly
 
     Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
 
-# Step 5
+## Step 5
 
     Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. 
